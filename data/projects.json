@@ -1,0 +1,51 @@
+[
+  {
+    "title": "GL Dining Restaurant Website",
+    "category": "Web",
+    "description": "Team-built website for Blu and The Library, two locally owned restaurants in Norman, Oklahoma.",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Wireframing"],
+    "details": "Our team met with the owners to understand what makes their restaurants community gathering spaces. The site works like an online brochure: menus with allergy guidance, hours, a private-event inquiry form, and a mobile-friendly job application. I created individual wireframes and a UI/UX concept focused on a cozy feel with minimal scrolling."
+  },
+  {
+    "title": "Personal Portfolio Website",
+    "category": "Web",
+    "description": "This responsive multi-page portfolio, with projects loaded dynamically from a JSON file.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "JSON"],
+    "details": "Built with Bootstrap's grid and components plus a custom stylesheet. JavaScript uses fetch() to load project data, generates the project cards, and powers category filtering, keyword search, project detail modals, and a saved light/dark theme."
+  },
+  {
+    "title": "C# Business Console Applications",
+    "category": "Programming",
+    "description": "Four console programs covering shipping costs, restaurant orders, account validation, and product search.",
+    "technologies": ["C#", ".NET", "Visual Studio Code", "GitHub"],
+    "details": "A single solution containing a shipping calculator, a restaurant order system, an account registration validator, and a product search and filter tool. The assignment practiced conditionals, loops, input validation, and collections in C#."
+  },
+  {
+    "title": "Reddit AI Discourse Text Mining",
+    "category": "Data",
+    "description": "Collected and analyzed Reddit discussions about artificial intelligence to surface recurring themes.",
+    "technologies": ["R", "RStudio", "NodeXL", "tidytext"],
+    "details": "I first planned to analyze YouTube comments, but switched to Reddit after the YouTube comment importer broke due to API changes. The corpus is drawn from AI-focused subreddits and analyzed in R with tidytext to identify common words and themes."
+  },
+  {
+    "title": "Apple Product Tweet Analysis",
+    "category": "Data",
+    "description": "Word frequency analysis of X (Twitter) posts mentioning Apple's iPhone and iPad.",
+    "technologies": ["R", "dplyr", "tidytext", "NodeXL"],
+    "details": "Using a NodeXL-gathered corpus (reposts excluded), I tokenized posts, removed URLs, punctuation, and stopwords, then reported and interpreted the most frequent terms."
+  },
+  {
+    "title": "EMR/EHR Implementation Plan",
+    "category": "Business",
+    "description": "Project plan for implementing an electronic medical records system at a family medicine clinic.",
+    "technologies": ["Project Management", "Scheduling", "Risk Planning"],
+    "details": "As part of a three-person team, I helped plan the Riverside Family Medicine EMR/EHR implementation, covering scope, schedule, risks, and stakeholders, and presented the final plan to the project sponsor."
+  },
+  {
+    "title": "AI and Employee Autonomy (Master's Thesis)",
+    "category": "Research",
+    "description": "Ongoing thesis research on how AI tools affect employees' sense of autonomy at work.",
+    "technologies": ["Self-Determination Theory", "Literature Review", "R"],
+    "details": "Grounded in self-determination theory, this research explores how AI affects the fulfillment of employees' need for autonomy, and how informational autonomy relates to learning, job satisfaction, and turnover intentions. Expected completion: May 2027."
+  }
+]
